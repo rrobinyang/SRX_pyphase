@@ -1,0 +1,2 @@
+DIR="$( dirname "$0" )"
+python3 $DIR/__main__.py $*
